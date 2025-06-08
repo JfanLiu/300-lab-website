@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: 上海交通大学智能媒体与创意实验室
-subtitle: 
+# subtitle: 
 description: 致力于成为生成式AI在媒体领域（图像、视频、三维、交互式媒体）核心引擎的缔造者，专注于突破高可控媒体生成的极限。
 header: images/background.jpg
 footer: images/background.jpg
