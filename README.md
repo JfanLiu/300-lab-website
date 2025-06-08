@@ -5,6 +5,6 @@
 
   # JfanLiu's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[jfanliu.github.io/300-lab-website](https://jfanliu.github.io/300-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
