@@ -1,0 +1,57 @@
+- title: 图像视频的参数化表达与生成计算
+  subtitle: Parametric Expression and Generation Computation of Image and Video
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: 图像视频的参数化表达与生成计算是利用数学模型和算法对图像和视频进行高效的表示与生成的过程。通过对图像和视频内容的参数化表示，能够实现对复杂场景的精确控制和生成，同时提高生成计算的效率，广泛应用于多媒体处理、影视特效、虚拟现实等领域。
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: 三维内容的参数化表达与生成计算
+  subtitle: Parametric Expression and Generation Computation of 3D Content
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: 三维内容的参数化表达与生成计算涉及通过数学模型和计算方法，对三维物体、场景进行建模与生成。通过参数化表达，可以更加精细地控制三维内容的形态和变化，并在计算机图形学、虚拟现实、游戏开发等领域发挥重要作用，为创作人员提供更为丰富的创意工具。
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: 创意媒体的生成与交互计算
+  subtitle: Generative Media Creation and Interactive Computation
+  image: images/photo.jpg
+  link: https://github.com/
+  description: 创意媒体的生成与交互计算结合了生成式算法与用户交互技术，旨在实现个性化、动态的多媒体内容创作。通过与用户的实时交互，能够根据需求生成定制化的图像、音频、视频等媒体内容，推动艺术创作、广告设计、教育等行业的发展，增强用户的沉浸感与参与感。
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+- title: 生成式医疗辅助
+  subtitle: Generative Medical Assistance
+  image: images/photo.jpg
+  link: https://github.com/
+  description: 生成式医疗辅助应用生成式算法和人工智能技术，为医生和医疗工作者提供诊断、治疗和决策支持。通过生成式模型，能够辅助生成病历分析、医学影像处理等内容，提升医疗效率与精确度，推动个性化医疗和精准医疗的发展，有助于降低医疗成本，提高患者的治疗效果。
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
